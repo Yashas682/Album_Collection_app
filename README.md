@@ -1,4 +1,5 @@
 # UI Interface
+![Screenshot (59)](https://github.com/Yashas682/Album_Collection_app/assets/91604926/1e9c35fd-4b19-4c0f-ae25-5b317bdc4110)
 
 ## Getting Started with Create React App
 
